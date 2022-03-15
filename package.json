@@ -1,6 +1,6 @@
 {
   "name": "proyecto-1a-matematicas-jag",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Proyecto de Mate sencillo para dar curso de nodejs",
   "main": "index.js",
   "scripts": {
